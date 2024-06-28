@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kgaurav729
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning machine learning and open cv
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...drop mail at gauravkulmethe007@gmail.com
 
 <!---
